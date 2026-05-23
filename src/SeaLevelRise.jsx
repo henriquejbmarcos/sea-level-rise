@@ -388,7 +388,7 @@ export default function SeaLevelRise() {
               🏛️ vs 🚩 TWO PLAYERS
             </button>
           </div>
-          <div style={{marginTop:16,fontSize:9,fontFamily:"var(--m)",color:"#4a5568",letterSpacing:.5}}>© Henrique Marcos, 2026. All rights reserved.</div>
+          <div style={{marginTop:16,fontSize:14,fontFamily:"var(--m)",color:"#ffffff",letterSpacing:.5}}>© Henrique Marcos, 2026. All rights reserved.</div>
         </div>
       </div>
     );
